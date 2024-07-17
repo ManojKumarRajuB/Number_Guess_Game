@@ -1,0 +1,16 @@
+Instructions to Play Number Guess Game
+
+1. May I Ask Your Name
+   - Enter Your Name
+
+2. System will think the number
+
+3.Try to guess the number and type it.
+
+4. System will Show the the given number is greater are lower to the system number
+
+5. it will give you Six chances to guess the currect number
+
+6.After that it will give you the thinking Number
+
+7.if you want to play again repeat the process
